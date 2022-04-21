@@ -1,0 +1,17 @@
+html *
+{
+   color: darkred !important;
+   font-family: Arial !important;
+}
+
+body {
+    font: Arial;
+    color: darkred;
+    background-color: lightslategray;
+    margin-left: 20px;
+}
+
+h1 {
+    font: Arial;
+    color: darkred;
+}

@@ -1,0 +1,17 @@
+html *
+{
+   color: #D1DEDE !important;
+   font-family: Arial !important;
+}
+
+body {
+    font: Arial;
+    color: #D1DEDE;
+    background-color: #1D201F;
+    margin-left: 20px;
+}
+
+h1 {
+    font: Arial;
+    color: #D1DEDE;
+}

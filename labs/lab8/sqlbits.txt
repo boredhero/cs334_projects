@@ -1,0 +1,12 @@
+INSERT INTO customer(last_name, first_name, street_add_1, street_add_2, city, state, postal_code, country, email_address, home_phone, cell_phone, facebook_page_url, user_id, pword, salesperson_id)
+VALUES
+('Smith', 'John', '1 Fake Lane', 'Apt. 1', 'Fakesburgh', 'PA', '15213', 'United States', 'fake1@fake.com', '111-222-3333', '222-111-3333', 'https://facebook.com/...', '1', 'abc123', 0),
+('America', 'Joe', '1 Fake Lane', 'Apt. 2', 'Fakesburgh', 'PA', '15213', 'United States', 'fake2@fake.com', '123-456-7890', '456-123-7890', 'https://facebook.com/...', '2', '123abc', 1),
+('Sue', 'Mary', '2 Fake Lane', 'Apt. 1', 'Fakesburgh', 'PA', '15213', 'United States', 'fake3@fake.com', '696-969-6969', '969-696-9696', 'https://facebook.com/...', '3', 'zyx098', 2),
+('Katsuragi', 'Misato', '1 Nerv Lane', 'Room 1', 'Tokyo III', 'XX', '00000', 'Japan', 'misato@nerv.un', '+81 03-1234-5678', '+81 03-2345-6789', 'https://facebook.com/...', '4', 'nerv123', 3),
+('Ikari', 'Shinji', '1 Nerv Lane', 'Room 2', 'Tokyo III', 'XX', '00000', 'Japan', 'shinji@nerv.un', '+81 03-3456-7890', '+81 03-4567-8901', 'https://facebook.com/...', '5', 'nerv234', 4),
+('Soryu', 'Asuka', '1 Nerv Lane', 'Room 3', 'Tokyo III', 'XX', '00000', 'Japan', 'asuka@nerv.un', '+49 30-123456', '+49 1234-123456', 'https://facebook.com/...', '6', 'nerv345', 5),
+('Ikari', 'Gendo', '99 Big Pyramid Street', 'Room 1', 'Tokyo III - Nerv HQ', 'XX', '00000', 'Japan', 'gendo@nerv.donotreply.un', '+81 03-5678-9012', '', 'https://facebook.com/...', '7', 'baddad1', 6),
+('Ayanami', 'Rei', '1 Depression Road', 'Apt 35', 'Tokyo III - Nerv HQ', 'XX', '00000', 'Japan', 'rei239@nerv.un', '', '', '', '8', 'nerv456', 7),
+('Nagisa', 'Kaworu', '1 Moon Drive', '', 'Luna', 'XX', '99999', 'The Moon', 'kaworu@seele.org', '12345', '23456', 'https://facebook.com/...', '9', 'adam123', 8),
+('Lilith', '', '1 Central Dogma', '', 'Tokyo III - Nerv HQ', 'XX', '00000', 'Japan', 'donotreply@nerv.un', '1-800-NERV', '1-800-NERV', 'https://facebook.com/...', '10', 'impact1', 9);
