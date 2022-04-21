@@ -11,6 +11,7 @@
 <?php
 include "menu.html";
 echo "<br><br><img src='under_construction.png', alt='Weeb at Work'>";
+echo "<h1><a href='https://github.com/boredhero/cs334_projects/tree/main/final'>GitHub Link</a></h1>";
 echo "<h1>Source Code:</h1>";
 echo "<h2>final.php</h2>";
 $s1 = show_source("final.php", true);
